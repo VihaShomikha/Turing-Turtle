@@ -14,8 +14,9 @@ This Python code creates a visually appealing drawing using the Turtle graphics 
 2. **Running the Code:**
    - Save this code as a Python file (e.g., `turing_turtle.py`).
    - Open a terminal, navigate to the directory where you saved the file, and run:
+     ```bash
       python turtle.py
-
+     ```
 **Explanation:**
 
 The code utilizes the `turtle` library to create a drawing on the screen. Here's a breakdown of the key parts:
